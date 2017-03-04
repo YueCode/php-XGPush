@@ -1,5 +1,6 @@
 {
     "name": "yuecode/xgpush",
+     "description": "信鸽Push",
     "type": "library",
     "license": "MIT",
     "authors": [
